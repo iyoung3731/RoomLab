@@ -4,8 +4,8 @@ import Game.Runner;
 import People.Person;
 
 public class Lab extends Room {
-    public Lab(int x, int y) {
-        super(x, y);
+    public Lab(int a, int b) {
+        super(a, b);
 
     }
     public void enterRoom(Person x)
